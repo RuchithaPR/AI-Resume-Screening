@@ -1,0 +1,19 @@
+Karthik Nair
+karthik.nair@example.com | +91 98450 22222
+
+Summary
+Frontend developer with 5 years of experience building responsive web applications.
+
+Experience
+Senior Frontend Developer, PixelWorks                     Jan 2020 - Present
+- Built single page apps with React, TypeScript, HTML and CSS
+- Integrated REST APIs and GraphQL, wrote unit tests with Jest
+
+Frontend Developer, WebCraft                              Mar 2018 - Dec 2019
+- Developed landing pages using JavaScript, Angular and CSS
+
+Education
+B.Com, Christ University, 2014 - 2017
+
+Skills
+JavaScript, TypeScript, React, Angular, HTML, CSS, Git

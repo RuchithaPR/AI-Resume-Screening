@@ -1,0 +1,19 @@
+Job Title: Machine Learning Engineer (NLP)
+
+About the Role
+We are looking for a Machine Learning Engineer to build and deploy NLP models that
+help us understand customer feedback at scale.
+
+Requirements:
+- Bachelor's or Master's degree in Computer Science, Data Science or a related field
+- 2+ years of experience building machine learning models
+- Strong Python programming skills
+- Hands-on experience with scikit-learn, TensorFlow or PyTorch
+- Experience with natural language processing and text classification
+- Good knowledge of SQL and data analysis using Pandas and NumPy
+- Experience with Git and Docker
+
+Preferred / Nice to have:
+- Experience with Hugging Face and LLMs
+- Exposure to AWS and MLOps
+- Experience with Streamlit or FastAPI

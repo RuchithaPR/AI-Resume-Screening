@@ -1,0 +1,14 @@
+Rahul Verma
+rahul.verma@example.com | 9123456780
+
+Experience
+Junior Data Scientist, Insight Labs                       Aug 2022 - Present
+- Trained machine learning models with scikit-learn and Python for churn prediction
+- Wrote SQL queries and used Pandas and NumPy for data analysis
+- Version control with Git
+
+Education
+B.E in Information Technology, Anna University, 2018 - 2022
+
+Skills
+Python, SQL, scikit-learn, Pandas, NumPy, Git, Matplotlib

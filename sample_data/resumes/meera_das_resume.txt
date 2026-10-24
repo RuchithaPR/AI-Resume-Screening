@@ -1,0 +1,18 @@
+Meera Das
+meera.das@example.com | +91 99999 33333
+
+Summary
+Data scientist with 3 years of experience in NLP and applied machine learning.
+
+Experience
+Data Scientist, LangTech Solutions                        Feb 2023 - Present
+- Developed natural language processing pipelines for document classification using Python and spaCy
+- Fine-tuned transformer models with PyTorch; built a RAG chatbot using LangChain and LLMs
+- Queried data with SQL, analysed it with Pandas, tracked experiments with Git
+
+Education
+M.Sc in Data Science, University of Hyderabad, 2020 - 2022
+B.Sc in Mathematics, St. Xavier's College, 2017 - 2020
+
+Skills
+Python, SQL, PyTorch, spaCy, Pandas, NumPy, Docker, Git

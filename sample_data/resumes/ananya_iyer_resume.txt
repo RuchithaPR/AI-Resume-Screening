@@ -1,0 +1,15 @@
+Ananya Iyer
+ananya.iyer@example.com | +91 90000 11111
+
+Objective
+Final-year student looking for an entry level role in data science.
+
+Projects
+- Movie review sentiment classifier using Python and NLTK (text classification)
+- Handwritten digit recognition with TensorFlow and Keras
+
+Education
+B.Tech in Computer Science, PES University, 2021 - 2025
+
+Skills
+Python, NLTK, TensorFlow, Keras, Pandas, Git

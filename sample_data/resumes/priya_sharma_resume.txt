@@ -1,0 +1,21 @@
+Priya Sharma
+priya.sharma@example.com | +91 98765 43210
+
+Summary
+Machine learning engineer with 4 years of experience building NLP systems.
+
+Experience
+Machine Learning Engineer, TextWise Analytics            Jun 2021 - Present
+- Built text classification and sentiment models using Python, PyTorch and Hugging Face
+- Deployed LLM based summarisation service with FastAPI, Docker and AWS
+- Set up MLOps pipelines with Git and CI/CD
+
+Data Analyst, DataNest                                    Jul 2019 - May 2021
+- Data analysis with SQL, Pandas and NumPy; dashboards in Tableau
+
+Education
+M.Tech in Computer Science, IIT Madras, 2017 - 2019
+B.Tech in Computer Science, VIT, 2013 - 2017
+
+Skills
+Python, SQL, scikit-learn, TensorFlow, PyTorch, NLP, Pandas, NumPy, Docker, Git, AWS, Streamlit
