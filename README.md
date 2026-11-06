@@ -1,6 +1,23 @@
 # AI Resume Screening System
 
 Ranks candidates against a job description using NLP. Built as a **decision-support tool** for recruiters:
+## Screenshots
+
+**Input: job description and resumes**
+
+![Input](input.png)
+
+**Ranked results**
+
+![Results](result.png)
+
+**Score breakdown for a candidate**
+
+![Score breakdown](break-down.png)
+
+**Blind screening mode**
+
+![Blind mode](blind-mode.png)
 every score comes with an explanation (matched / missing skills, experience, education) and nobody is auto-rejected.
 
 ## How it works
