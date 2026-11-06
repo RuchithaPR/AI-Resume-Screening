@@ -68,7 +68,7 @@ src/screener.py      Scoring, ranking, explanations
 sample_data/         Sample JD, 5 resumes, labels
 ```
 
-## Known limitations (good for the report)
+## Known limitations
 
 - Skill detection is vocabulary based: unknown skills are missed. Extend `SKILL_DB` for your domain.
 - Scanned/image PDFs have no text (OCR such as `pytesseract` would be a future improvement); they are flagged.
